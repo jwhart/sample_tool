@@ -1,0 +1,9 @@
+{
+    "workspace": "None",
+    "road_density": {
+        "mxd_template": "maptemplate.mxd",
+        "image_quality": "BEST",
+        "keep_intermediate": "False",
+        "workspace": "in_memory"
+    }
+}
